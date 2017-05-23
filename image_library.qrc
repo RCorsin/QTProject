@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/schtroumpfs">
+        <file>Image_Library/stroumpch3.png</file>
+        <file>Image_Library/stroupch2.png</file>
+        <file>Image_Library/stroumphpik3.png</file>
+        <file>Image_Library/stroumphpik2.png</file>
+        <file>Image_Library/stroumphpik1.png</file>
+        <file>Image_Library/stroumpch4idem2.png</file>
+        <file>Image_Library/stroumpch1.png</file>
+    </qresource>
+    <qresource prefix="/animals">
+        <file>Image_Library/oursvert.png</file>
+        <file>Image_Library/oursrouge.png</file>
+        <file>Image_Library/oursorange.png</file>
+        <file>Image_Library/oursjaune.png</file>
+        <file>Image_Library/crocopikrouge.png</file>
+        <file>Image_Library/crocopik violet.png</file>
+        <file>Image_Library/crocopik jaune.png</file>
+        <file>Image_Library/crocopik bleue.png</file>
+        <file>Image_Library/crocodilevert.png</file>
+        <file>Image_Library/crocodileventreblanc.png</file>
+        <file>Image_Library/crocodilerouge.png</file>
+        <file>Image_Library/crocodileorange.png</file>
+        <file>Image_Library/crocodilejaune.png</file>
+        <file>Image_Library/crocodilebleu.png</file>
+        <file>Image_Library/croco pik vert.png</file>
+    </qresource>
+    <qresource prefix="/sodas">
+        <file>Image_Library/oranginapik2.png</file>
+        <file>Image_Library/oranginapik1.png</file>
+        <file>Image_Library/cola.png</file>
+        <file>Image_Library/cocacitrique1.png</file>
+        <file>Image_Library/bouteille fraise.png</file>
+    </qresource>
+    <qresource prefix="/dragibus">
+        <file>Image_Library/dragibusvert.png</file>
+        <file>Image_Library/dragibusrouge.png</file>
+        <file>Image_Library/dragibusrose.png</file>
+        <file>Image_Library/dragibuspomme.png</file>
+        <file>Image_Library/dragibusnoir.png</file>
+        <file>Image_Library/dragibusjaune.png</file>
+        <file>Image_Library/dragibusbleufoncé.png</file>
+        <file>Image_Library/dragibusbleu.png</file>
+        <file>Image_Library/dragibusblanc.png</file>
+    </qresource>
+</RCC>
